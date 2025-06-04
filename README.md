@@ -4,7 +4,7 @@ A simple 2.5D animation of a rotating DNA double helix, created using Python and
 
 ## Preview
 
-`![DNA Animation Preview](dna_animation_preview.gif)`
+![DNA Animation Preview](dna_animation_preview.gif)
 
 ## Features
 
